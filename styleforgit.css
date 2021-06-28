@@ -1,15 +1,20 @@
 h1 {
   color: orange;
+   text-align: center;
 }
 h2 {
   color: turquoise;
+   text-align: center;
 }
 h3 {
   color: darkorange;
+  text-align: center;
 }
 
 .wrapper{
-  text-align:center;
-  margin: auto 0;
-  background: #F1F1F1
+  background: grey
+}
+
+p{
+ text-align: center;
 }
