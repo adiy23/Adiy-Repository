@@ -7,3 +7,9 @@ h2 {
 h3 {
   color: darkorange;
 }
+
+.wrapper{
+  text-align:center;
+  margin: auto 0;
+  background: #F1F1F1
+}
