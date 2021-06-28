@@ -3,7 +3,7 @@ h1 {
    text-align: center;
 }
 h2 {
-   color: turquoise;
+   color: darkblue;
    text-align: center;
 }
 
@@ -25,5 +25,9 @@ p{
 }
 
 img{
-text-align: center;
+margin: auto, 0;
+}
+
+.wrapper{
+background: lightblue;
 }
