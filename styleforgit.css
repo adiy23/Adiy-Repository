@@ -1,10 +1,12 @@
 h1 {
    color: orange;
    text-align: center;
+   font-family: 'Anton', sans-serif;
 }
 h2 {
    color: darkblue;
    text-align: center;
+   font-family: 'Yellowtail', cursive;
 }
 
 h3 {
@@ -13,7 +15,7 @@ h3 {
 }
 
 h4{
-  color: black;
+  font-family: 'Big Shoulders Display', cursive;
   text-align: center;
 }
 
