@@ -31,4 +31,5 @@ class= "center";
 
 .wrapper{
 background: lightcyan;
+max-width: 700px;
 }
