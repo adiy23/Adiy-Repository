@@ -32,4 +32,6 @@ class= "center";
 .wrapper{
 background: lightcyan;
 max-width: 1920px;
+padding: 0;
+margin: 0,0;
 }
